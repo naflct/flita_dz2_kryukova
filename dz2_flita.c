@@ -33,7 +33,6 @@ int main() {
                 {
                     fprintf(graph2, " [label = %d", A[i][j]);
                     fprintf(graph2, " ]\n ");
-
                 }
             }
         }
